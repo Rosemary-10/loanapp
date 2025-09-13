@@ -1,14 +1,9 @@
-1 scikit-learn
+scikit-learn
+pandas
+numpy
+plotly
+seaborn
+streamlit
+streamlit_option_menu
 
-2 pandas
-
-3 numpy
-
-4 plotly
-
-5 seaborn
-
-6 streamlit
-
-7 streamlit_option_menu
 
