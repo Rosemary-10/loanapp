@@ -6,7 +6,7 @@ import plotly.express as px
 import pickle
 
 # Loading the model
-loaded_model = pickle.load(open('loan_classifeir', 'rb'))
+loaded_model = pickle.load(open('loan_classifier', 'rb'))
 
 # Importing the dataset
 load = pd.read_csv('bankloan.csv')
